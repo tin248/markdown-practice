@@ -2,7 +2,7 @@
 
  ---
 ## 📖 About This Project
- I’m Tom Ding, This is my first Markdown project on GitHub.
+ I’m Tom Ding, This is my first Markdown project on GitHub.我很擅长打麻将，打遍天下无敌手。
 
 ---
 ## 💻 Git Commands
